@@ -1,0 +1,46 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    padding: 1rem;
+}
+
+.form-card {
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.form-card-section {
+    padding: 2rem;
+}
+
+.reset-password-button,
+.form-link {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+h2.text-center {
+    margin-bottom: 1.5rem;
+    font-size: 24px;
+}
+
+p.lead {
+    margin-bottom: 1rem;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.form-link {
+    margin-bottom: 1rem;
+}
+
+.login-container .card-section,
+.forgot-password-container .card-section,
+.reset-password-container .card-section {
+    padding: 2rem;
+}
