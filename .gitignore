@@ -1,1 +1,16 @@
+# common
 .env
+
+# js
+/cake-app/webroot/js/bootstrap/*
+
+# css
+/cake-app/webroot/css/admin/bootstrap.*
+/cake-app/webroot/css/bootstrap.*
+/cake-app/webroot/css/bootstrap/*
+/cake-app/webroot/css/fonts/awesome/
+/cake-app/webroot/img/coverpage/*
+!/cake-app/webroot/img/coverpage/cover_missing.jpg
+
+/cake-app/tmp/
+/cake-app/logs/
